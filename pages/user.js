@@ -2,7 +2,7 @@ import React from 'react'
 function User () {
     return(
         <div>
-            <h1>Hello Word</h1>
+            <h1>Edit branch dev</h1>
         </div>
     )
 }
